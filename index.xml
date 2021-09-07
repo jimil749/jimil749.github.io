@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jimil Desai</title>
+    <link>https://jimil749.github.io/</link>
+    <description>Recent content on Jimil Desai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Tue, 07 Sep 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://jimil749.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://jimil749.github.io/about/</link>
+      <pubDate>Tue, 07 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://jimil749.github.io/about/</guid>
+      <description>Hey there! How you doin&amp;rsquo;? I am Jimil Desai, currently a Computer Science undergrad at School of Engineering and Applied Science, Ahmeadabad University pursuing my bachelors degree in Information and Communication Technology. I am passionate about software development and engineering, especially in the fields of distributed systems, full stack development and Cloud Computing. I love working on large scale open source technologies, particularly in Cloud Native(Technologies around Kubernetes) and try to contribute regularly.</description>
+    </item>
+    
+    <item>
+      <title>Academics</title>
+      <link>https://jimil749.github.io/academics/</link>
+      <pubDate>Tue, 07 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://jimil749.github.io/academics/</guid>
+      <description>Work Experience  Cloud Native Computing Foundation - Buildpacks Sept 2021 - Today
+LFX Mentee with Buildpacks
+Skills: Golang, Docker, OCI Images
+Selected for The Linux Foundation Mentorship programme under CNCF with the Buildpacks project. Working on Cloud Native Buildpacks, that transforms the application source code into images(without Dockerfile) that can run on any cloud. As a part of the mentorship program, main task would be to update the builder implementation to newly spec&amp;rsquo;d Builder in Pack, CLI for cloud native buildpacks.</description>
+    </item>
+    
+  </channel>
+</rss>
